@@ -18,7 +18,7 @@ public class binarySearch {
     }
 
     public static void main(String[] args) {
-        int n = StdIn.readInt();
+         int n = StdIn.readInt();
         int numberKey = StdIn.readInt();
         int[] a = new int[n];
         for (int i = 0; i < n; i++) {
