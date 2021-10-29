@@ -1,0 +1,3 @@
+Không nên sử dụng danh sách liên kết để làm dữ liệu đầu vào cho sắp xếp Chọn (Insertion sort)
+và Chèn/Xen vào (Selection Sort) vì 2 cách sắp xếp này đều cần truy nhập vào nhiều ô dữ liệu
+khác nhau trong cùng 1 thời điểm nên danh sách liên kết làm cho thao tác truy cập k thuận tiện.
