@@ -11,6 +11,7 @@ public class JavaStringReverse {
 
         int leng = A.length();
 
+
         for (int i = 0; i < leng / 2; i++) {
             if (A.charAt(i) != A.charAt(leng - 1 - i)) {
                 System.out.println("No");
